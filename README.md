@@ -14,7 +14,7 @@ writing/
 coding/
   _프로젝트에서_정할_것.md   답을 고르지 않고 질문만 남기는 항목
   common/                언어·프레임워크 무관
-  spring-java/           Java · Spring 스택
+  spring-java/           Java · Spring 스택 (code-style 은 C 계열 언어 공통)
     mybatis/             MyBatis 전용 (JPA 프로젝트에는 적용하지 않는다)
   skills/                Claude Code 스킬
   agents/                서브에이전트
